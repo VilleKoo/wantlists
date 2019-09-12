@@ -1,1 +1,1 @@
-# wantlists
+# MTG wantlists

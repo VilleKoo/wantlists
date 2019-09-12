@@ -1,0 +1,13 @@
+# Oath of the Gatewatch
+- Eldrazi Displacer
+- Eldrazi Mimic
+- Grasp of Darkness
+- Kalitas, Traitor of Ghet
+- Kozilek, the Great Distortion
+- Matter Reshaper
+- Mirrorpool
+- Needle Spires
+- Nissa, Voice of Zendikar
+- Stoneforge Masterwork
+- Thought-Knot Seer
+- World Breaker	

@@ -1,0 +1,21 @@
+# Alliances
+- Ashnod's Cylix
+- Balduvian Horde
+- Balduvian Trading Post
+- Diminishing Returns
+- Dystopia
+- Exile
+- Fatal Lore
+- Heart of Yavimaya
+- Kaysa
+- Keeper of Tresserhorn
+- Kjeldoran Outpost
+- Lodestone Bauble
+- Phantasmal Sphere
+- Phelddagrif
+- Pillage
+- Pyrokinesis
+- Thawing Glaciers
+- Thought Lash
+- Tornado
+- Varchild's War-Riders		

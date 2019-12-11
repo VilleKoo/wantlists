@@ -1,6 +1,4 @@
 # Dragon's Maze
-- Blood Baron of Vizkopa
-- Boros BattleshaperBreaking // Entering
 - Lavinia of the Tenth
 - Legion's Initiative
 - Master of Cruelties
